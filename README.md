@@ -2,7 +2,7 @@
 * git clone git@github.com:nlintz/Indico-Security-Camera.git
 * cd Indico-Security-Camera
 * npm install
-* echo 'module.exports={"apiKey":"<your indico api key>"}' > indicoConfig.js
+* echo 'module.exports={"apiKey":"your indico api key"}' > indicoConfig.js
 * npm start
 * (in a separate terminal) node app
 
