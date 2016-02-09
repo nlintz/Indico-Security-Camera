@@ -1,0 +1,30 @@
+html, body {
+  height:100%;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+    height: 100%;
+}
+
+.no-margin-left {
+    margin-right: 0 !important;
+}
+
+.main-section {
+    padding-top: 75px;
+}
+
+.show-x {
+    position: absolute !important;
+}
+
+.card-image img.hide-x {
+    display: none;
+}
+
+.card-image {
+    height: 70% !important;
+    max-height: 100% !important;
+}
